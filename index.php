@@ -77,9 +77,9 @@
        
                     <div class="card-body" >
                         <h3>Presione un boton para mas informacion</h3>
-                        <a href="poo" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Programacion orientada a objetos </a>
-                        <a href="pl" class="btn btn-secondary btn-lg active" role="button1" aria-pressed="true">Programacion Logica </a>
-                        <a href="pf" class="btn btn-primary btn-lg active" role="button2" aria-pressed="true">programacion funcional </a>
+                        <a href="poo.php" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Programacion orientada a objetos </a>
+                        <a href="pl.php" class="btn btn-secondary btn-lg active" role="button1" aria-pressed="true">Programacion Logica </a>
+                        <a href="pf.php" class="btn btn-primary btn-lg active" role="button2" aria-pressed="true">programacion funcional </a>
                         
                        <h1>¿Qué son los paradigmas de programación?</h1>
 <h2>¿Qué es un paradigma de programación?</h2>
